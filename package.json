@@ -1,0 +1,27 @@
+{
+  "name": "MySQLQueryBuilder",
+  "version": "0.0.1",
+  "author": "klaasvaak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Klaasvaak/MySQLQueryBuilder"
+  },
+  "licenses": [
+    {
+      "type": "LPGL",
+      "url": "https://github.com/Klaasvaak/MySQLQueryBuilder/blob/master/LICENSE"
+    }
+  ],
+  "main": "./index.js",
+  "description": "Query builder for MySQL. Not ready to use.",
+  "bugs": {
+    "url": "https://github.com/Klaasvaak/MySQLQueryBuilder/issues"
+  },
+  "homepage": "https://github.com/Klaasvaak/MySQLQueryBuilder",
+  "keywords": [
+    "MySQL",
+    "Query",
+    "Query Builder",
+    "QueryBuilder"
+  ]
+}
