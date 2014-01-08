@@ -1,7 +1,6 @@
 MySQLQueryBuilder
 =======
 ### TODOS
-* delete
 * show
 * tests for inner queries
 * test with mysql driver
