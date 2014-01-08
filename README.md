@@ -7,7 +7,6 @@ MySQLQueryBuilder
 * test with mysql driver
 * expressions
 * configuration (quotechar, table prefix)
-* escape function
 
 This is a query builder for MySQL for Node.js which follows some rules (see rules). If you want a query builder for something more than just MySQL or if you do not like the rules you could take a look at: http://hiddentao.github.io/squel
 
